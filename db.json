@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "Discworld",
+    "author": "Terry Pratchett",
+    "year": 1983,
+    "category": "Fantasy"
+  },
+  {
+    "title": "Underland",
+    "author": "Robert Macfarlane",
+    "year": 2019,
+    "category": "Biography"
+  },
+  {
+    "title": "Speedcats",
+    "author": "Downey Jacksson",
+    "year": 2010,
+    "category": "Sci-Fi"
+  }
+]
